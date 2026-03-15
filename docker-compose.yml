@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  python-app:
+    build: .
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - PYTHONUNBUFFERED=1
+      - DB_HOST=host.docker.internal
+      - DB_USER=root
+      - DB_PASSWORD=
+      - DB_NAME=coopmart
