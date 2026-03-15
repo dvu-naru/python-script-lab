@@ -1,0 +1,12 @@
+mysql-connector-python==8.4.0
+requests==2.32.3
+pyqt5==5.15.10
+beautifulsoup4==4.12.3
+html2image
+pytube==15.0.0
+schedule
+psutil
+Pillow
+pytesseract==0.3.13
+speechrecognition
+pyaudio

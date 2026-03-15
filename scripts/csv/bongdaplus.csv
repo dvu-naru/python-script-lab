@@ -1,0 +1,2540 @@
+[
+    {
+        "title": "Đăng nhập",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Tạo tài khoản",
+        "brief": null,
+        "link": "https://member.bongdaplus.vn/Identity/Account/Register?returnUrl=%2F",
+        "image": null
+    },
+    {
+        "title": "Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "V-League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/v-league",
+        "image": null
+    },
+    {
+        "title": "Hạng Nhất",
+        "brief": null,
+        "link": "https://bongdaplus.vn/hang-nhat-quoc-gia",
+        "image": null
+    },
+    {
+        "title": "Cúp Quốc gia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-quoc-gia",
+        "image": null
+    },
+    {
+        "title": "ĐTQG",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-quoc-gia-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Nữ",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-nu-viet-nam",
+        "image": null
+    },
+    {
+        "title": "U17 Quốc gia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/u17-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Futsal",
+        "brief": null,
+        "link": "https://bongdaplus.vn/futsal",
+        "image": null
+    },
+    {
+        "title": "Phong trào",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phong-trao",
+        "image": null
+    },
+    {
+        "title": "Các đội tuyển trẻ",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cac-doi-tuyen-tre-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Tin khác",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-khac",
+        "image": null
+    },
+    {
+        "title": "U19 Quốc Gia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/u19-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Cup Nivea Men",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-viet-nam/cup-nivea-men",
+        "image": null
+    },
+    {
+        "title": "Đơn vị Kết nghĩa",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ket-nghia-anh-em",
+        "image": null
+    },
+    {
+        "title": "U21 Quốc Gia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/u21-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Tây Ban Nha",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "VĐQG Tây Ban Nha",
+        "brief": null,
+        "link": "https://bongdaplus.vn/la-liga",
+        "image": null
+    },
+    {
+        "title": "Cúp Nhà Vua",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-nha-vua-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển TBN",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "VĐQG Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bundesliga",
+        "image": null
+    },
+    {
+        "title": "Cúp Quốc gia Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-quoc-gia-duc",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-duc",
+        "image": null
+    },
+    {
+        "title": "Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "VĐQG Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ligue-1",
+        "image": null
+    },
+    {
+        "title": "Cúp Quốc gia Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-quoc-gia-phap",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-phap",
+        "image": null
+    },
+    {
+        "title": "Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-y",
+        "image": null
+    },
+    {
+        "title": "VĐQG Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/serie-a",
+        "image": null
+    },
+    {
+        "title": "Coppa Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/coppa-italia",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-y",
+        "image": null
+    },
+    {
+        "title": "Thế giới",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi",
+        "image": null
+    },
+    {
+        "title": "Giao hữu",
+        "brief": null,
+        "link": "https://bongdaplus.vn/giao-huu-bong-da",
+        "image": null
+    },
+    {
+        "title": "World Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/world-cup",
+        "image": null
+    },
+    {
+        "title": "Điểm tin",
+        "brief": null,
+        "link": "https://bongdaplus.vn/diem-tin",
+        "image": null
+    },
+    {
+        "title": "FIFA Club World Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/fifa-club-world-cup",
+        "image": null
+    },
+    {
+        "title": "Confed Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/confed-cup",
+        "image": null
+    },
+    {
+        "title": "Nhận định",
+        "brief": null,
+        "link": "https://bongdaplus.vn/nhan-dinh-bong-da-tags",
+        "image": null
+    },
+    {
+        "title": "Tư vấn",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo-bong-da",
+        "image": null
+    },
+    {
+        "title": "SEA Games",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games",
+        "image": null
+    },
+    {
+        "title": "Multimedia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video",
+        "image": null
+    },
+    {
+        "title": "Premium",
+        "brief": null,
+        "link": "https://bongdaplus.vn/premium",
+        "image": null
+    },
+    {
+        "title": "Mới nhất",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-moi",
+        "image": null
+    },
+    {
+        "title": "Premium",
+        "brief": null,
+        "link": "https://bongdaplus.vn/premium",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Tây Ban Nha",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Thế giới",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi",
+        "image": null
+    },
+    {
+        "title": "Nhận định",
+        "brief": null,
+        "link": "https://bongdaplus.vn/nhan-dinh-bong-da-tags",
+        "image": null
+    },
+    {
+        "title": "Tư vấn",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo-bong-da",
+        "image": null
+    },
+    {
+        "title": "SEA Games",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games",
+        "image": null
+    },
+    {
+        "title": "Multimedia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video",
+        "image": null
+    },
+    {
+        "title": "Chuyển nhượng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/chuyen-nhuong",
+        "image": null
+    },
+    {
+        "title": "Mới nhất",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-moi",
+        "image": null
+    },
+    {
+        "title": "Nhận định",
+        "brief": null,
+        "link": "https://bongdaplus.vn/nhan-dinh-bong-da-tags",
+        "image": null
+    },
+    {
+        "title": "Nhận định",
+        "brief": null,
+        "link": "https://bongdaplus.vn/nhan-dinh-bong-da-tags",
+        "image": null
+    },
+    {
+        "title": "Tư vấn",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo-bong-da",
+        "image": null
+    },
+    {
+        "title": "Tư vấn",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo-bong-da",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Premium",
+        "brief": null,
+        "link": "https://bongdaplus.vn/premium",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-quoc-gia-viet-nam",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/v-league",
+        "image": null
+    },
+    {
+        "title": "Hạng Nhất",
+        "brief": null,
+        "link": "https://bongdaplus.vn/hang-nhat-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Cúp Quốc gia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-quoc-gia-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Bóng đá nữ",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-nu-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Futsal",
+        "brief": null,
+        "link": "https://bongdaplus.vn/futsal",
+        "image": null
+    },
+    {
+        "title": "Phong trào",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phong-trao",
+        "image": null
+    },
+    {
+        "title": "Chuyển nhượng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-chuyen-nhuong-v-league",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-anh",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoai-hang-anh",
+        "image": null
+    },
+    {
+        "title": "FA Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/fa-cup",
+        "image": null
+    },
+    {
+        "title": "League Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-lien-doan-anh",
+        "image": null
+    },
+    {
+        "title": "Tây Ban nha",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển TBN",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/la-liga",
+        "image": null
+    },
+    {
+        "title": "Cúp Nhà Vua",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-nha-vua-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-phap",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ligue-1",
+        "image": null
+    },
+    {
+        "title": "Cúp QG Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-quoc-gia-phap",
+        "image": null
+    },
+    {
+        "title": "Cúp Liên đoàn Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-lien-doan-phap-tags",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Khu vực",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Khu vực",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Asian Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/asian-cup",
+        "image": null
+    },
+    {
+        "title": "Asian Games",
+        "brief": null,
+        "link": "https://bongdaplus.vn/asian-games",
+        "image": null
+    },
+    {
+        "title": "AFF Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/aff-cup",
+        "image": null
+    },
+    {
+        "title": "SEA Games",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-y",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/serie-a",
+        "image": null
+    },
+    {
+        "title": "Coppa Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/coppa-italia",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-duc",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bundesliga",
+        "image": null
+    },
+    {
+        "title": "Cúp QG Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-quoc-gia-duc",
+        "image": null
+    },
+    {
+        "title": "Nội dung Đặc biệt",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Nội dung Đặc biệt",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Big Story",
+        "brief": null,
+        "link": "https://bongdaplus.vn/emagazine",
+        "image": null
+    },
+    {
+        "title": "X-File",
+        "brief": null,
+        "link": "https://bongdaplus.vn/x-file",
+        "image": null
+    },
+    {
+        "title": "Infographic",
+        "brief": null,
+        "link": "https://bongdaplus.vn/infographic",
+        "image": null
+    },
+    {
+        "title": "Interactive",
+        "brief": null,
+        "link": "https://bongdaplus.vn/interactive",
+        "image": null
+    },
+    {
+        "title": "Giải đấu CLB",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Giải đấu CLB",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/europa-league",
+        "image": null
+    },
+    {
+        "title": "Club World Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/fifa-club-world-cup-tags",
+        "image": null
+    },
+    {
+        "title": "Europa Conf League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/europa-conference-league",
+        "image": null
+    },
+    {
+        "title": "Chuyên đề",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Chuyên đề",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Chuyển nhượng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-chuyen-nhuong",
+        "image": null
+    },
+    {
+        "title": "Hậu trường",
+        "brief": null,
+        "link": "https://bongdaplus.vn/hau-truong-bong-da",
+        "image": null
+    },
+    {
+        "title": "Điểm tin",
+        "brief": null,
+        "link": "https://bongdaplus.vn/diem-tin",
+        "image": null
+    },
+    {
+        "title": "Showbiz Ngôi sao",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoi-sao-showbiz",
+        "image": null
+    },
+    {
+        "title": "Góc check var",
+        "brief": null,
+        "link": "https://bongdaplus.vn/goc-check-var",
+        "image": null
+    },
+    {
+        "title": "Đam mê",
+        "brief": null,
+        "link": "https://bongdaplus.vn/dam-me",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "World Cup nữ 2028",
+        "brief": null,
+        "link": "https://bongdaplus.vn/world-cup-nu-2023-tags",
+        "image": null
+    },
+    {
+        "title": "World Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/world-cup",
+        "image": null
+    },
+    {
+        "title": "EURO 2028",
+        "brief": null,
+        "link": "https://bongdaplus.vn/euro-cup-chau-au",
+        "image": null
+    },
+    {
+        "title": "Nations League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/nations-league",
+        "image": null
+    },
+    {
+        "title": "Copa America",
+        "brief": null,
+        "link": "https://bongdaplus.vn/copa-america",
+        "image": null
+    },
+    {
+        "title": "CAN",
+        "brief": null,
+        "link": "https://bongdaplus.vn/can",
+        "image": null
+    },
+    {
+        "title": "Olympic 2028",
+        "brief": null,
+        "link": "https://bongdaplus.vn/olympic",
+        "image": null
+    },
+    {
+        "title": "Multimedia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video",
+        "image": null
+    },
+    {
+        "title": "Multimedia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video",
+        "image": null
+    },
+    {
+        "title": "Lịch thi đấu",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da",
+        "image": null
+    },
+    {
+        "title": "Lịch thi đấu",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?europa-league",
+        "image": null
+    },
+    {
+        "title": "Bảng xếp hạng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da",
+        "image": null
+    },
+    {
+        "title": "Bảng xếp hạng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?europa-league",
+        "image": null
+    },
+    {
+        "title": "Bóng đá phủi",
+        "brief": null,
+        "link": "https://phui.bongdaplus.vn",
+        "image": null
+    },
+    {
+        "title": "Tennis",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tennis",
+        "image": null
+    },
+    {
+        "title": "Esports",
+        "brief": null,
+        "link": "https://bongdaplus.vn/esports",
+        "image": null
+    },
+    {
+        "title": "Thể thao +",
+        "brief": null,
+        "link": "https://bongdaplus.vn/the-thao",
+        "image": null
+    },
+    {
+        "title": "Mới nhất",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-moi",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-quoc-gia-viet-nam",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/v-league",
+        "image": null
+    },
+    {
+        "title": "Hạng Nhất",
+        "brief": null,
+        "link": "https://bongdaplus.vn/hang-nhat-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Cúp Quốc gia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-quoc-gia-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Cúp châu Á",
+        "brief": null,
+        "link": "https://bongdaplus.vn/asian-cup",
+        "image": null
+    },
+    {
+        "title": "Bóng đá nữ",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-nu-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Futsal",
+        "brief": null,
+        "link": "https://bongdaplus.vn/futsal",
+        "image": null
+    },
+    {
+        "title": "Phong trào",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phong-trao",
+        "image": null
+    },
+    {
+        "title": "Chuyển nhượng V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-chuyen-nhuong-v-league",
+        "image": null
+    },
+    {
+        "title": "Tin khác",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-khac",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-anh",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoai-hang-anh",
+        "image": null
+    },
+    {
+        "title": "FA Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/fa-cup",
+        "image": null
+    },
+    {
+        "title": "League Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-lien-doan-anh",
+        "image": null
+    },
+    {
+        "title": "Giải đấu CLB",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/europa-league",
+        "image": null
+    },
+    {
+        "title": "Club World Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/fifa-club-world-cup-tags",
+        "image": null
+    },
+    {
+        "title": "Europa Conference League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/europa-conference-league",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-y",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/serie-a",
+        "image": null
+    },
+    {
+        "title": "Coppa Italia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/coppa-italia",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "World Cup nữ 2028",
+        "brief": null,
+        "link": "https://bongdaplus.vn/world-cup-nu-2023-tags",
+        "image": null
+    },
+    {
+        "title": "World Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/world-cup",
+        "image": null
+    },
+    {
+        "title": "EURO 2028",
+        "brief": null,
+        "link": "https://bongdaplus.vn/euro-cup-chau-au",
+        "image": null
+    },
+    {
+        "title": "Nations League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/nations-league",
+        "image": null
+    },
+    {
+        "title": "Copa America",
+        "brief": null,
+        "link": "https://bongdaplus.vn/copa-america",
+        "image": null
+    },
+    {
+        "title": "CAN",
+        "brief": null,
+        "link": "https://bongdaplus.vn/can",
+        "image": null
+    },
+    {
+        "title": "Olympic 2024",
+        "brief": null,
+        "link": "https://bongdaplus.vn/olympic",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-phap",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ligue-1",
+        "image": null
+    },
+    {
+        "title": "Cúp QG Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-quoc-gia-phap",
+        "image": null
+    },
+    {
+        "title": "Cúp Liên đoàn Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-lien-doan-phap-tags",
+        "image": null
+    },
+    {
+        "title": "Khu vực",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Asian Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/asian-cup",
+        "image": null
+    },
+    {
+        "title": "Asian Games",
+        "brief": null,
+        "link": "https://bongdaplus.vn/asian-games",
+        "image": null
+    },
+    {
+        "title": "AFF Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/aff-cup",
+        "image": null
+    },
+    {
+        "title": "SEA Games",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games",
+        "image": null
+    },
+    {
+        "title": "Tây Ban nha",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Tây Ban nha",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển TBN",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/la-liga",
+        "image": null
+    },
+    {
+        "title": "Cúp Nhà Vua",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-nha-vua-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Chuyên đề",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Chuyển nhượng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-chuyen-nhuong",
+        "image": null
+    },
+    {
+        "title": "Hậu trường",
+        "brief": null,
+        "link": "https://bongdaplus.vn/hau-truong-bong-da",
+        "image": null
+    },
+    {
+        "title": "Điểm tin",
+        "brief": null,
+        "link": "https://bongdaplus.vn/diem-tin",
+        "image": null
+    },
+    {
+        "title": "Showbiz Ngôi sao",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoi-sao-showbiz",
+        "image": null
+    },
+    {
+        "title": "Góc check var",
+        "brief": null,
+        "link": "https://bongdaplus.vn/goc-check-var",
+        "image": null
+    },
+    {
+        "title": "Đam mê",
+        "brief": null,
+        "link": "https://bongdaplus.vn/dam-me",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Bóng đá Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Đội tuyển Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/doi-tuyen-duc",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bundesliga",
+        "image": null
+    },
+    {
+        "title": "Cúp QG Đức",
+        "brief": null,
+        "link": "https://bongdaplus.vn/cup-quoc-gia-duc",
+        "image": null
+    },
+    {
+        "title": "Đặc biệt",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Big Story",
+        "brief": null,
+        "link": "https://bongdaplus.vn/emagazine",
+        "image": null
+    },
+    {
+        "title": "X-File",
+        "brief": null,
+        "link": "https://bongdaplus.vn/x-file",
+        "image": null
+    },
+    {
+        "title": "Infographic",
+        "brief": null,
+        "link": "https://bongdaplus.vn/infographic",
+        "image": null
+    },
+    {
+        "title": "Interactive",
+        "brief": null,
+        "link": "https://bongdaplus.vn/interactive",
+        "image": null
+    },
+    {
+        "title": "Thông tin bóng đá",
+        "brief": null,
+        "link": "https://bongdaplus.vn/thong-tin-bong-da",
+        "image": null
+    },
+    {
+        "title": "Tin chuyển nhượng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tin-chuyen-nhuong",
+        "image": null
+    },
+    {
+        "title": "Nhận định",
+        "brief": null,
+        "link": "https://bongdaplus.vn/nhan-dinh-bong-da-tags",
+        "image": null
+    },
+    {
+        "title": "Tư vấn",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo-bong-da",
+        "image": null
+    },
+    {
+        "title": "Multimedia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video",
+        "image": null
+    },
+    {
+        "title": "Youtube",
+        "brief": null,
+        "link": "https://www.youtube.com/channel/UCF0VFBZu-5SRJXMV_FMysEA",
+        "image": null
+    },
+    {
+        "title": "FB Fanpage",
+        "brief": null,
+        "link": "https://www.facebook.com/BaoBongDa",
+        "image": null
+    },
+    {
+        "title": "Premium",
+        "brief": null,
+        "link": "https://bongdaplus.vn/premium",
+        "image": null
+    },
+    {
+        "title": "Lịch thi đấu",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da",
+        "image": null
+    },
+    {
+        "title": "Lịch thi đấu hôm nay",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da",
+        "image": null
+    },
+    {
+        "title": "Lịch thi đấu hôm nay",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?europa-league",
+        "image": null
+    },
+    {
+        "title": "Kết quả mới nhất",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ket-qua-bong-da",
+        "image": null
+    },
+    {
+        "title": "Kết quả mới nhất",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ket-qua-bong-da",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?europa-league",
+        "image": null
+    },
+    {
+        "title": "Bảng xếp hạng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Bảng xếp hạng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?europa-league",
+        "image": null
+    },
+    {
+        "title": "Bóng đá phủi",
+        "brief": null,
+        "link": "https://phui.bongdaplus.vn",
+        "image": null
+    },
+    {
+        "title": "Bóng đá phủi",
+        "brief": null,
+        "link": "https://phui.bongdaplus.vn",
+        "image": null
+    },
+    {
+        "title": "Tennis",
+        "brief": null,
+        "link": "https://bongdaplus.vn/tennis",
+        "image": null
+    },
+    {
+        "title": "Esports",
+        "brief": null,
+        "link": "https://bongdaplus.vn/esports",
+        "image": null
+    },
+    {
+        "title": "Esports",
+        "brief": null,
+        "link": "https://bongdaplus.vn/esports",
+        "image": null
+    },
+    {
+        "title": "Thể thao +",
+        "brief": null,
+        "link": "https://bongdaplus.vn/the-thao",
+        "image": null
+    },
+    {
+        "title": "Thông tin tòa soạn",
+        "brief": "Tạp chí Bóng Đá",
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Thông tin tòa soạn",
+        "brief": "Tạp chí Bóng Đá",
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá U22 Thái Lan vs U22 Singapore, 19h00 ngày 11/12: Chiến thắng cho chủ nhà",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/nhan-dinh-bong-da-u22-thai-lan-vs-u22-singapore-19h00-ngay-11-12-chien-thang-cho-chu-nha-4883962512.html",
+        "image": null
+    },
+    {
+        "title": "'U22 Việt Nam bị tổn thương, quyết phục thù Malaysia'",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/hlv-kim-sang-sik-u22-viet-nam-bi-ton-thuong-quyet-phuc-thu-malaysia-4884002512.html",
+        "image": null
+    },
+    {
+        "title": "5 cầu thủ bỗng dưng 'mất tích' kể từ năm 2020",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi/hakim-ziyech-top-cau-thu-bong-dung-mat-tich-ke-tu-nam-2020-4884712512.html",
+        "image": null
+    },
+    {
+        "title": "Cầu thủ Nga và cầu thủ Ukraine làm điều chưa từng có ở PSG",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/safonov-va-zabarnyi-cung-lam-dieu-chua-tung-co-o-psg-4885012512.html",
+        "image": null
+    },
+    {
+        "title": "VIDEO Minh Phúc băng cắt đệm bóng chính xác nâng tỷ số",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video/video-minh-phuc-bang-cat-dem-bong-chinh-xac-nang-ty-so-truc-tiep-u22-viet-nam-2-0-u22-malaysia-910422512.html",
+        "image": null
+    },
+    {
+        "title": "VIDEO Hiểu Minh bật cao đánh đầu dũng mãnh mở tỷ số",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video/video-hieu-minh-bat-cao-danh-dau-dung-manh-mo-ty-so-u22-viet-nam-1-0-u22-malaysia-910412512.html",
+        "image": null
+    },
+    {
+        "title": "VIDEO Đồng đội bật khóc ngay sau khi Trần Ngọc Lượng mang về HCV thứ hai cho MMA Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video/video-dong-doi-bat-khoc-ngay-sau-khi-tran-ngoc-luong-mang-ve-hcv-thu-hai-cho-mma-viet-nam-910432512.html",
+        "image": null
+    },
+    {
+        "title": "SEA Games 2025",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games",
+        "image": null
+    },
+    {
+        "title": "Hướng dẫn bạn đọc đăng ký tài khoản Bóng Đá Premium",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi/huong-dan-ban-doc-dang-ky-tai-khoan-bong-da-premium-4421142408.html",
+        "image": null
+    },
+    {
+        "title": "Kobbie Mainoo? Là ai cơ?",
+        "brief": "Cách các cổ động viên, các huyền thoại của MU gây áp lực lên HLV Ruben Amorim nói lên nhiều điều về đội bóng này hơn chúng ta tưởng.",
+        "link": "https://bongdaplus.vn/ngoai-hang-anh/kobbie-mainoo-la-ai-co--4884692512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/big-red.jpg"
+    },
+    {
+        "title": "U22 Malaysia ‘đi trên dây’",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/u22-malaysia-di-tren-day-4884782512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/hoang-tri-cong.jpg"
+    },
+    {
+        "title": "Mbappe còn giữ ghế cho Xabi Alonso được bao lâu?",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/real-madrid-mbappe-con-giu-ghe-cho-xabi-alonso-duoc-bao-lau-4883492512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/dung-phan.png"
+    },
+    {
+        "title": "Lịch thi đấu bóng đá hôm nay, ngày 11/12",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi/lich-thi-dau-bong-da-hom-nay-ngay-11-12-4884752512.html",
+        "image": null
+    },
+    {
+        "title": "Lịch thi đấu SEA Games 33 hôm nay (11/12) của đoàn Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/lich-thi-dau-sea-games-33-hom-nay-11-12-cua-doan-viet-nam-nu-hoang-xuat-tran-4884252512.html",
+        "image": null
+    },
+    {
+        "title": "16h00 ngày 11/12: ĐT nữ Việt Nam vs ĐT nữ Myanmar",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/viet-nam-thang-lich-su-malaysia-o-bong-chay-sea-games-4880402512.html",
+        "image": null
+    },
+    {
+        "title": "16h00 ngày 11/12: U22 Việt Nam vs U22 Malaysia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/nhan-dinh-bong-da-u22-viet-nam-vs-u22-malaysia-16h00-ngay-11-12-khong-cau-hoa-4882592512.html",
+        "image": null
+    },
+    {
+        "title": "16h00 ngày 11/12: ĐT nữ Philippines vs ĐT nữ Malaysia",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/nhan-dinh-bong-da-dt-nu-philippines-vs-dt-nu-malaysia-16h00-ngay-11-12-doi-mua-gon-duoc-khong-4882852512.html",
+        "image": null
+    },
+    {
+        "title": "00h45 12/12Thắng thuaNiceVSBraga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-nice-vs-braga-00h45-ngay-12-12-4884212512.html",
+        "image": "https://cdn.bongdaplus.vn/assets/media/nhan-dinh/thumb-stadium.jpg"
+    },
+    {
+        "title": "Nhận định THẮNG THUA Young Boys vs Lille, 00h45 ngày 12/12",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-young-boys-vs-lille-0h45-ngay-12-12-4884802512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định THẮNG THUA Ferencvarosi vs Rangers, 00h45 ngày 12/12",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-ferencvarosi-vs-rangers-00h45-ngay-12-12-4883892512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định GÓC Ferencvarosi vs Rangers, 00h45 ngày 12/12",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-goc-ferencvarosi-vs-rangers-00h45-ngay-12-12-4883922512.html",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?europa-league",
+        "image": null
+    },
+    {
+        "title": "Cup Quốc gia Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?cup-quoc-gia-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Hạng nhất Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?hang-nhat-quoc-gia",
+        "image": null
+    },
+    {
+        "title": "FA Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?fa_cup",
+        "image": null
+    },
+    {
+        "title": "Vô địch Brazil",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?vo_dich_brazil",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?europa-league",
+        "image": null
+    },
+    {
+        "title": "Cup Quốc gia Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?cup-quoc-gia-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Hạng nhất Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?hang-nhat-quoc-gia",
+        "image": null
+    },
+    {
+        "title": "FA Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?fa_cup",
+        "image": null
+    },
+    {
+        "title": "Vô địch Brazil",
+        "brief": null,
+        "link": "https://bongdaplus.vn/lich-thi-dau-bong-da?vo_dich_brazil",
+        "image": null
+    },
+    {
+        "title": "V.League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Ngoại hạng Anh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-anh",
+        "image": null
+    },
+    {
+        "title": "La Liga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-tay-ban-nha",
+        "image": null
+    },
+    {
+        "title": "Serie A",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-y",
+        "image": null
+    },
+    {
+        "title": "Bundesliga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-duc",
+        "image": null
+    },
+    {
+        "title": "Ligue 1",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?bong-da-phap",
+        "image": null
+    },
+    {
+        "title": "Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?champions-league-cup-c1",
+        "image": null
+    },
+    {
+        "title": "Europa League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?europa-league",
+        "image": null
+    },
+    {
+        "title": "Cup Quốc gia Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?cup-quoc-gia-viet-nam",
+        "image": null
+    },
+    {
+        "title": "Hạng nhất Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?hang-nhat-quoc-gia",
+        "image": null
+    },
+    {
+        "title": "FA Cup",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?fa_cup",
+        "image": null
+    },
+    {
+        "title": "Vô địch Brazil",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bang-xep-hang-bong-da?vo_dich_brazil",
+        "image": null
+    },
+    {
+        "title": "00h45 12/12Thắng thuaNiceVSBraga",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-nice-vs-braga-00h45-ngay-12-12-4884212512.html",
+        "image": "https://cdn.bongdaplus.vn/assets/media/keo-bong-da/keo-stadium.jpg"
+    },
+    {
+        "title": "Nhận định THẮNG THUA Young Boys vs Lille, 00h45 ngày 12/12",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-young-boys-vs-lille-0h45-ngay-12-12-4884802512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định THẮNG THUA Ferencvarosi vs Rangers, 00h45 ngày 12/12",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-ferencvarosi-vs-rangers-00h45-ngay-12-12-4883892512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định GÓC Ferencvarosi vs Rangers, 00h45 ngày 12/12",
+        "brief": null,
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-goc-ferencvarosi-vs-rangers-00h45-ngay-12-12-4883922512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Real Madrid vs Man City, 03h00 ngày 11/12: Đến Bernabeu lấy 3 điểm",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-real-madrid-vs-man-city-03h00-ngay-11-12-den-bernabeu-lay-3-diem-4882302512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Bayern vs Sporting, 00h45 ngày 10/12: Mở tiệc trong hang Hùm!",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-bayern-vs-sporting-00h45-ngay-10-12-mo-tiec-trong-hang-hum-4882172512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Wolves vs MU, 03h00 ngày 9/12: Bắt nạt Bầy sói!3",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoai-hang-anh/nhan-dinh-bong-da-wolves-vs-mu-03h00-ngay-9-12-bat-nat-bay-soi-4881282512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Barca vs Frankfurt, 03h00 ngày 10/12: Ngày ‘hội bắn’ ở Camp Nou",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-barca-vs-frankfurt-03h00-ngay-10-12-ngay-hoi-ban-o-camp-nou-4881412512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Kairat Almaty vs Olympiacos, 22h30 ngày 9/12: 3 điểm đầu tiên cho khách",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/nhan-dinh-bong-da-kairat-almaty-vs-olympiacos-22h30-ngay-9-12-3-diem-dau-tien-cho-khach-4881462512.html",
+        "image": null
+    },
+    {
+        "title": "Quyết định thiên tài của Amorim giúp MU hủy diệt Wolves12",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoai-hang-anh/quyet-dinh-thien-tai-cua-amorim-giup-mu-huy-diet-wolves-4882682512.html",
+        "image": null
+    },
+    {
+        "title": "Kết quả Club Brugge 0-3 Arsenal: Pháo thủ duy trì mạch toàn thắng10",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/ket-qua-club-brugge-vs-arsenal-phao-thu-toan-thang-o-champions-league-4884322512.html",
+        "image": null
+    },
+    {
+        "title": "Real Madrid chốt thời điểm sa thải Xabi Alonso8",
+        "brief": null,
+        "link": "https://bongdaplus.vn/la-liga/real-madrid-chot-thoi-diem-sa-thai-xabi-alonso-4882512512.html",
+        "image": null
+    },
+    {
+        "title": "Kết quả Wolves 1-4 MU: Quỷ đỏ đoạt 3 điểm8",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoai-hang-anh/ket-qua-wolves-vs-mu-quy-do-doat-3-diem-4882502512.html",
+        "image": null
+    },
+    {
+        "title": "Messi viết lại lịch sử MLS: Cú đúp MVP chưa từng có7",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi/messi-viet-lai-lich-su-mls-cu-dup-mvp-chua-tung-co-4883352512.html",
+        "image": null
+    },
+    {
+        "title": "00:41",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video/video-minh-phuc-bang-cat-dem-bong-chinh-xac-nang-ty-so-truc-tiep-u22-viet-nam-2-0-u22-malaysia-910422512.html",
+        "image": "https://cdn.bongdaplus.vn/assets/Media/2025/12/11/17/vietnam-2-0_c.jpg"
+    },
+    {
+        "title": "00:35",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video/video-hieu-minh-bat-cao-danh-dau-dung-manh-mo-ty-so-u22-viet-nam-1-0-u22-malaysia-910412512.html",
+        "image": "https://cdn.bongdaplus.vn/assets/Media/2025/12/11/17/vietnam-1-0_c.jpg"
+    },
+    {
+        "title": "01:39",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video/vo-sy-viet-nam-tung-lien-hoan-dam-vao-mat-doi-thu-malaysia-gianh-hcv-dau-tien-o-mon-mma-910382512.html",
+        "image": "https://cdn.bongdaplus.vn/assets/Media/2025/12/11/13/anhminh.JPG"
+    },
+    {
+        "title": "09:37",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video/tin-sea-games-33-ngay-10-12-bai-thi-ma-mi-giup-doan-ttvn-co-duoc-chiec-huy-chuong-dau-tien-day-an-tuong-910372512.html",
+        "image": "https://cdn.bongdaplus.vn/assets/Media/2025/12/10/17/diem-tin-sea-games-10-12-481_c.jpg"
+    },
+    {
+        "title": "02:52",
+        "brief": null,
+        "link": "https://bongdaplus.vn/video/video-trong-tai-thien-vi-ro-thai-lan-vo-sy-mma-viet-nam-qua-cay-lien-bat-khoc-nuc-no-910362512.html",
+        "image": "https://cdn.bongdaplus.vn/assets/Media/2025/12/10/17/van-nam-481_c.jpg"
+    },
+    {
+        "title": "Nhận định THẮNG THUA Sociedad vs Girona, 03h00 ngày 13/12",
+        "brief": "Trận Sociedad vs Girona diễn ra vào 03h00 ngày 13/12 ở vòng 16 của La Liga. Bongdaplus nhận định khả năng chiến thắng cao nhất với lựa chọn THẮNG THUA ở trận này.",
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-sociedad-vs-girona-03h00-ngay-13-12-4884992512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/stanley-ho-tipster.jpg"
+    },
+    {
+        "title": "Nhận định GÓC Panathinaikos vs Viktoria Plzen, 03h00 ngày 12/12",
+        "brief": "Trận Panathinaikos vs Viktoria Plzen diễn ra vào 03h00 ngày 12/12 ở vòng phân hạng của Europa League. Bongdaplus phân tích khả năng dự đoán đúng cao nhất với nhận định góc ở trận này.",
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-goc-panathinaikos-vs-viktoria-plzen-03h00-ngay-12-12-4884972512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/stanley-ho-tipster.jpg"
+    },
+    {
+        "title": "Nhận định THẮNG THUA Young Boys vs Lille, 00h45 ngày 12/12",
+        "brief": "Trận đấu giữa Young Boys vs Lille sẽ diễn ra lúc 00h45 ngày 12/12. Bongdaplus nhận định khả năng chiến thắng cao nhất với lựa chọn THẮNG THUA ở trận này.",
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-young-boys-vs-lille-0h45-ngay-12-12-4884802512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/minh-nam-tipster.jpg"
+    },
+    {
+        "title": "Nhận định GÓC Sociedad vs Girona, 03h00 ngày 13/12",
+        "brief": "Trận đấu ở La Liga giữa Sociedad vs Girona sẽ diễn ra lúc 03h00 ngày 13/12. Bongdaplus phân tích khả năng dự đoán đúng cao nhất với nhận định góc ở trận này.",
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-goc-sociedad-vs-girona-03h00-ngay-13-12-4884672512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/mr-corner-tipster.jpg"
+    },
+    {
+        "title": "Nhận định THẮNG THUA Nice vs Braga, 00h45 ngày 12/12",
+        "brief": "Trận đấu tại vòng phân hạng Europa League giữa Nice vs Braga sẽ diễn ra lúc 00h45 ngày 12/12. Bongdaplus nhận định khả năng chiến thắng cao nhất với lựa chọn THẮNG THUA ở trận này.",
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-nice-vs-braga-00h45-ngay-12-12-4884212512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/bigunder-tipster.jpg"
+    },
+    {
+        "title": "Nhận định THẮNG THUA Midtjylland vs Genk, 00h45 ngày 12/12",
+        "brief": "Trận đấu tại vòng phân hạng Europa League giữa Midtjylland vs Genk sẽ diễn ra lúc 00h45 ngày 12/12. Bongdaplus nhận định khả năng chiến thắng cao nhất với lựa chọn THẮNG THUA ở trận này.",
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-midtjylland-vs-genk-00h45-ngay-12-12-4884052512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/bigunder-tipster.jpg"
+    },
+    {
+        "title": "Nhận định GÓC Ferencvarosi vs Rangers, 00h45 ngày 12/12",
+        "brief": "Trận Ferencvarosi vs Rangers diễn ra vào 00h45 ngày 12/12 tại vòng phân hạng Europa League. Bongdaplus phân tích khả năng dự đoán đúng cao nhất với nhận định GÓC ở trận này.",
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-goc-ferencvarosi-vs-rangers-00h45-ngay-12-12-4883922512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/2win-tipster.jpg"
+    },
+    {
+        "title": "Nhận định THẮNG THUA Celta Vigo vs Bologna, 03h00 ngày 12/12",
+        "brief": "Trận đấu giữa Celta Vigo vs Bologna sẽ diễn ra lúc 03h00 ngày 12/12. Bongdaplus nhận định khả năng chiến thắng cao nhất với lựa chọn THẮNG THUA ở trận này.",
+        "link": "https://bongdaplus.vn/soi-keo/nhan-dinh-thang-thua-celta-vigo-vs-bologna-03h00-ngay-12-12-4883822512.html",
+        "image": "https://cdn.bongdaplus.vn/assets//Avatar/minh-nam-tipster.jpg"
+    },
+    {
+        "title": "Khai mạc Giải bóng đá Thanh Hóa miền Nam lần thứ 12",
+        "brief": null,
+        "link": "https://phui.bongdaplus.vn/khai-mac-giai-bong-da-thanh-hoa-mien-nam-lan-thu-12-p4688.html",
+        "image": null
+    },
+    {
+        "title": "BLV Hải “bạc”: Đại Từ và An Biên dễ đá pen, Thép Việt Thắng có nhiều lợi thế",
+        "brief": null,
+        "link": "https://phui.bongdaplus.vn/blv-hai-bac-dai-tu-va-an-bien-de-da-pen-thep-viet-thang-co-nhieu-loi-the-p4687.html",
+        "image": null
+    },
+    {
+        "title": "Hiếu Hoa Quahaco thất bại, chuyện quái gì ấy nhỉ?",
+        "brief": null,
+        "link": "https://phui.bongdaplus.vn/hieu-hoa-quahaco-that-bai-chuyen-quai-gi-ay-nhi-p4686.html",
+        "image": null
+    },
+    {
+        "title": "Bóng đá 6v6 lần đầu cập bến tại Việt Nam",
+        "brief": null,
+        "link": "https://phui.bongdaplus.vn/bong-da-6v6-lan-dau-cap-ben-tai-viet-nam-p4684.html",
+        "image": null
+    },
+    {
+        "title": "Choáng váng với giá vé Faker và T1 đến Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/esports/choang-vang-voi-gia-ve-faker-va-t1-den-viet-nam-4884662512.html",
+        "image": null
+    },
+    {
+        "title": "Nữ hoàng cầu lông xinh đẹp như 'thần tiên tỉ tỉ' trong ngày cưới",
+        "brief": null,
+        "link": "https://bongdaplus.vn/the-thao/nu-hoang-cau-long-xinh-dep-nhu-than-tien-ti-ti-trong-ngay-cuoi-4883672512.html",
+        "image": null
+    },
+    {
+        "title": "Lando Norris: Bạn gái xinh đẹp trở thành động lực để bước lên đỉnh thế giới",
+        "brief": null,
+        "link": "https://bongdaplus.vn/dua-xe-f1/lando-norris-ban-gai-xinh-dep-tro-thanh-dong-luc-de-buoc-len-dinh-the-gioi-4883032512.html",
+        "image": null
+    },
+    {
+        "title": "Tình trường của Rory McIlroy khiến giới chuyên môn choáng váng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/the-thao/tinh-truong-cua-rory-mcilroy-khien-gioi-chuyen-mon-choang-vang-4883042512.html",
+        "image": null
+    },
+    {
+        "title": "Giải đồng hương Thanh Hoá miền Nam 2025: 46 bàn thắng xuất hiện trong ngày khai mạc",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phong-trao/giai-dong-huong-thanh-hoa-mien-nam-2025-46-ban-thang-xuat-hien-trong-ngay-khai-mac-4881682512.html",
+        "image": null
+    },
+    {
+        "title": "Thiên Khôi giành Cúp bóng đá 7 người Quốc gia 2025",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-phong-trao/thien-khoi-gianh-cup-bong-da-7-nguoi-quoc-gia-2025-4881652512.html",
+        "image": null
+    },
+    {
+        "title": "Thắng thuyết phục Bồ Đào Nha, Brazil vô địch World Cup futsal nữ 2025",
+        "brief": null,
+        "link": "https://bongdaplus.vn/futsal/thang-thuyet-phuc-bo-dao-nha-brazil-vo-dich-world-cup-futsal-nu-2025-4881582512.html",
+        "image": null
+    },
+    {
+        "title": "Brazil hay Bồ Đào Nha sẽ lên đỉnh ở World Cup futsal nữ 2025?",
+        "brief": null,
+        "link": "https://bongdaplus.vn/futsal/brazil-hay-bo-dao-nha-se-len-dinh-o-world-cup-futsal-nu-2025-4880842512.html",
+        "image": null
+    },
+    {
+        "title": "Salah, Ronaldo và nghệ thuật tạo scandal bằng phỏng vấn",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoai-hang-anh/salah-ronaldo-va-nghe-thuat-tao-scandal-bang-phong-van-4884702512.html",
+        "image": null
+    },
+    {
+        "title": "Kobbie Mainoo? Là ai cơ?",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoai-hang-anh/kobbie-mainoo-la-ai-co--4884692512.html",
+        "image": null
+    },
+    {
+        "title": "Salah bị công kích ‘có bộ não của côn trùng’",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoai-hang-anh/salah-bi-cong-kich-co-bo-nao-cua-con-trung-4884762512.html",
+        "image": null
+    },
+    {
+        "title": "Ashley Cole: ‘Cả quãng đời cầu thủ của tôi đầy rẫy những hành động ngu ngốc’",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ngoai-hang-anh/ashley-cole-ca-quang-doi-cau-thu-cua-toi-day-ray-nhung-hanh-dong-ngu-ngoc--4881942512.html",
+        "image": null
+    },
+    {
+        "title": "Cựu sao Barca tiết lộ cơ duyên được trở thành giảng viên đại học Harvard",
+        "brief": null,
+        "link": "https://bongdaplus.vn/la-liga/cuu-sao-barca-tiet-lo-co-duyen-duoc-tro-thanh-giang-vien-dai-hoc-harvard-4884462512.html",
+        "image": null
+    },
+    {
+        "title": "3 cầu thủ bị cấm thi đấu hết năm 2025, Real Madrid khủng hoảng trầm trọng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/la-liga/ba-cau-thu-bi-cam-thi-dau-het-nam-2025-real-madrid-khung-hoang-tram-trong-4884282512.html",
+        "image": null
+    },
+    {
+        "title": "Real Madrid ra phán quyết về Xabi Alonso",
+        "brief": null,
+        "link": "https://bongdaplus.vn/la-liga/real-madrid-ra-phan-quyet-ve-xabi-alonso-4884402512.html",
+        "image": null
+    },
+    {
+        "title": "Real Madrid đã chọn xong người thế chỗ Xabi Alonso?",
+        "brief": null,
+        "link": "https://bongdaplus.vn/la-liga/real-madrid-da-chon-xong-nguoi-the-cho-xabi-alonso-4884152512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Torino vs Cremonese, 21h00 ngày 13/12: Cuộc đấu của Zapata vs Vardy",
+        "brief": null,
+        "link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-torino-vs-cremonese-21h00-ngay-13-12-cuoc-dau-cua-zapata-vs-vardy-4884542512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Atalanta vs Cagliari, 02h45 ngày 14/12: Xóa bỏ nghịch lý",
+        "brief": null,
+        "link": "https://bongdaplus.vn/serie-a/nhan-dinh-bong-da-atalanta-vs-cagliari-02h45-ngay-14-12-xoa-bo-nghich-ly-4884512512.html",
+        "image": null
+    },
+    {
+        "title": "Ngày Ronaldo gặp… ‘cướp’",
+        "brief": null,
+        "link": "https://bongdaplus.vn/serie-a/ngay-ronaldo-gap-cuop-4884042512.html",
+        "image": null
+    },
+    {
+        "title": "Kết quả Torino 2-3 AC Milan: Show diễn của Pulisic",
+        "brief": null,
+        "link": "https://bongdaplus.vn/serie-a/ket-qua-torino-vs-ac-milan-show-dien-cua-pulisic-4882492512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Union Berlin vs Leipzig, 02h30 ngày 13/12: Chia điểm ở Berlin",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bundesliga/nhan-dinh-bong-da-union-berlin-vs-leipzig-02h30-ngay-13-12-chia-diem-4884492512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Dortmund vs Hoffenheim, 23h30 ngày 7/12: Xuyên thủng bức tường vàng",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bundesliga/nhan-dinh-bong-da-dortmund-vs-hoffenheim-23h30-ngay-7-12-xuyen-thung-buc-tuong-vang-4879582512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Hamburg vs Bremen, 21h30 ngày 7/12: 3 điểm về tay 'Nhạc công'",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bundesliga/nhan-dinh-bong-da-hamburg-vs-bremen-21h30-ngay-7-12-4878782512.html",
+        "image": null
+    },
+    {
+        "title": "Kane vào sân từ ghế dự bị ghi hat-trick sau 22 phút, Bayern hủy diệt Stuttgart",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bundesliga/kane-vao-san-tu-ghe-du-bi-ghi-hat-trick-sau-22-phut-bayern-huy-diet-stuttgart-4880682512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Marseille vs Monaco, 02h45 ngày 15/12: Pogba và đồng đội 'lành ít dữ nhiều'",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ligue-1/nhan-dinh-bong-da-marseille-vs-monaco-02h45-ngay-15-12-4884182512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Angers vs Nantes, 02h45 ngày 13/12: Uy hiếp Top 6",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ligue-1/nhan-dinh-bong-da-angers-vs-nantes-02h45-ngay-13-12-4883252512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Lorient vs Lyon, 02h45 ngày 8/12: Phá dớp được không?",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ligue-1/nhan-dinh-bong-da-lorient-vs-lyon-02h45-ngay-8-12-pha-dop-duoc-khong-4879722512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Nice vs Angers, 21h00 ngày 7/12: Sân nhà sẽ 'cứu' Nice?",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ligue-1/nhan-dinh-bong-da-nice-vs-angers-21h00-ngay-7-12-4878812512.html",
+        "image": null
+    },
+    {
+        "title": "Pep đã có 'liều thuốc độc bên cánh trái' cho Man City",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/pep-da-co-lieu-thuoc-doc-ben-canh-trai-cho-man-city-4884622512.html",
+        "image": null
+    },
+    {
+        "title": "Gabriel Jesus phấn khích khi trở lại",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/gabriel-jesus-phan-khich-khi-tro-lai-4884722512.html",
+        "image": null
+    },
+    {
+        "title": "HLV Mikel Arteta bị chỉ trích dữ dội  vì quyết định 'đáng xấu hổ'",
+        "brief": null,
+        "link": "https://bongdaplus.vn/champions-league-cup-c1/hlv-mikel-arteta-bi-chi-trich-du-doi-vi-quyet-dinh-dang-ho-then-4884632512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Celtic vs Roma, 03h00 ngày 12/12: 3 điểm khó đấy Giallorossi",
+        "brief": null,
+        "link": "https://bongdaplus.vn/europa-league/nhan-dinh-bong-da-celtic-vs-roma-03h00-ngay-12-12-3-diem-duoc-khong-giallorossi-4882362512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Dinamo Zagreb vs Betis, 00h45 ngày 12/12: Điểm tựa Antony",
+        "brief": null,
+        "link": "https://bongdaplus.vn/europa-league/nhan-dinh-bong-da-dinamo-zagreb-vs-betis-00h45-ngay-12-12-4882312512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Ferencvaros vs Rangers, 00h45 ngày 12/12: Khó phân thắng bại",
+        "brief": null,
+        "link": "https://bongdaplus.vn/europa-league/nhan-dinh-bong-da-ferencvaros-vs-rangers-00h45-ngay-12-12-4882322512.html",
+        "image": null
+    },
+    {
+        "title": "Nhận định bóng đá Nice vs Braga, 00h45 ngày 12/12: Mang điểm về từ Pháp",
+        "brief": null,
+        "link": "https://bongdaplus.vn/europa-league/nhan-dinh-bong-da-nice-vs-braga-00h45-ngay-12-12-mang-diem-ve-tu-phap-4883102512.html",
+        "image": null
+    },
+    {
+        "title": "Top 5 cầu thủ vĩ đại nhất MLS, Lionel Messi ‘chỉ’ đứng thứ hai!",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi/top-5-cau-thu-vi-dai-nhat-mls-lionel-messi-chi-dung-thu-hai-4884602512.html",
+        "image": null
+    },
+    {
+        "title": "Lịch thi đấu bóng đá hôm nay, ngày 11/12",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi/lich-thi-dau-bong-da-hom-nay-ngay-11-12-4884752512.html",
+        "image": null
+    },
+    {
+        "title": "Trò hề tại ĐT Cameroon: Brys quyết không rời ghế, Eto’o bị tố lạm quyền",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi/tro-he-tai-dt-cameroon-brys-quyet-khong-roi-ghe-eto-o-bi-to-lam-quyen-4884272512.html",
+        "image": null
+    },
+    {
+        "title": "Kết quả bóng đá đêm 10/12, rạng sáng 11/12, kết quả bóng đá đêm qua và rạng sáng nay tại UEFA Champions League, AFC Champions League",
+        "brief": null,
+        "link": "https://bongdaplus.vn/bong-da-the-gioi/ket-qua-bong-da-dem10-12-rang-sang-11-12-ket-qua-bong-da-dem-qua-va-rang-sang-nay-tai-uefa-champions-league-afc-champions-league-4884392512.html",
+        "image": null
+    },
+    {
+        "title": "'Hot girl taekwondo' gây thương nhớ khi giành 2 huy chương cho đoàn thể thao Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/hot-girl-taekwondo-gianh-2-huy-chuong-cho-doan-the-thao-viet-nam-4884962512.html",
+        "image": null
+    },
+    {
+        "title": "U22 Việt Nam vs U22 Malaysia: Viktor Lê đá chính, Thanh Nhàn dự bị",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/u22-viet-nam-le-vikto-da-chinh-thanh-nhan-du-bi-4884942512.html",
+        "image": null
+    },
+    {
+        "title": "Trực tiếp ĐT nữ Việt Nam 2-0 ĐT nữ Myanmar: Việt Nam ép sân",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/16h00-chieu-nay-truc-tiep-dt-nu-viet-nam-vs-dt-nu-myanmar-4884732512.html",
+        "image": null
+    },
+    {
+        "title": "Trực tiếp U22 Việt Nam 2-0 U22 Malaysia: U22 Việt Nam giảm nhịp độ",
+        "brief": null,
+        "link": "https://bongdaplus.vn/sea-games/truc-tiep-u22-viet-nam-vs-u22-malaysia-16h00-ngay-11-12-4884112512.html",
+        "image": null
+    },
+    {
+        "title": "Vợ cũ Scott Sinclair thích thả rông, roi da và... cắn mỗi khi yêu",
+        "brief": null,
+        "link": "https://bongdaplus.vn/goc-check-var/helen-flanagan-vo-cu-scott-sinclair-thich-tha-rong-roi-da-va-can-xe-khi-yeu-4738722507.html",
+        "image": null
+    },
+    {
+        "title": "Cựu HLV MU léng phéng với học trò",
+        "brief": null,
+        "link": "https://bongdaplus.vn/goc-check-var/cuu-hlv-mu-leng-pheng-voi-hoc-tro-4737802507.html",
+        "image": null
+    },
+    {
+        "title": "Người đại diện của Jack Grealish cưỡng dâm một phụ nữ 39 lần",
+        "brief": null,
+        "link": "https://bongdaplus.vn/goc-check-var/nguoi-dai-dien-cua-jack-grealish-cuong-dam-mot-phu-nu-39-lan-4736942507.html",
+        "image": null
+    },
+    {
+        "title": "Sao Premier League quỵt tiền, đánh đập 4 gái làng chơi",
+        "brief": null,
+        "link": "https://bongdaplus.vn/goc-check-var/sao-premier-league-quyt-tien-danh-dap-4-ga-i-la-ng-choi-4736302507.html",
+        "image": null
+    },
+    {
+        "title": "Cầu thủ U22 Việt Nam được hỗ trợ khả năng quan sát ở SEA Games 33",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ben-ngoai-duong-piste/cau-thu-u22-viet-nam-duoc-ho-tro-kha-nang-quan-sat-o-sea-games-33-4874122511.html",
+        "image": null
+    },
+    {
+        "title": "T&T Homes chính thức ra mắt Sales Gallery đầu tiên tại TP.HCM",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ben-ngoai-duong-piste/t-t-homes-chinh-thuc-ra-mat-sales-gallery-dau-tien-tai-tp-hcm-4873582511.html",
+        "image": null
+    },
+    {
+        "title": "Tập đoàn T&T Group ký hợp tác chiến lược với Hội Doanh nhân trẻ Việt Nam",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ben-ngoai-duong-piste/tap-doan-t-t-group-ky-hop-tac-chien-luoc-voi-hoi-doanh-nhan-tre-viet-nam-4872692511.html",
+        "image": null
+    },
+    {
+        "title": "Thái Nguyên chào đón 'Không gian thể thao thanh niên' - điểm hẹn năng lượng mới của thanh thiếu niên",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ben-ngoai-duong-piste/thai-nguyen-chao-don-khong-gian-the-thao-thanh-nien-diem-hen-nang-luong-moi-cua-thanh-thieu-nien-4869942511.html",
+        "image": null
+    },
+    {
+        "title": "Lễ khai mạc Giải Pickleball 'Ước Mơ Xanh' 2025: Khởi đầu cho hành trình gắn kết và nhân ái",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ben-ngoai-duong-piste/le-khai-mac-giai-pickleball-uoc-mo-xanh-2025-khoi-dau-cho-hanh-trinh-gan-ket-va-nhan-ai-4869012511.html",
+        "image": null
+    },
+    {
+        "title": "Dongfeng Box – hatchback điện B-segment 'chiều lòng phái nữ' với nội thất tinh tế & ADAS thông minh",
+        "brief": null,
+        "link": "https://bongdaplus.vn/ben-ngoai-duong-piste/dongfeng-box-hatchback-dien-b-segment-chieu-long-phai-nu-voi-noi-that-tinh-te-adas-thong-minh-4860932511.html",
+        "image": null
+    },
+    {
+        "title": "Thông tin tòa soạn",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    },
+    {
+        "title": "Liên hệ quảng cáo",
+        "brief": null,
+        "link": "https://bongdaplus.vn/",
+        "image": null
+    }
+]
