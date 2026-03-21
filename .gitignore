@@ -4,6 +4,9 @@
 *.py[cod]
 *$py.class
 
+data/
+images/
+
 # Virtual environments
 
 venv/

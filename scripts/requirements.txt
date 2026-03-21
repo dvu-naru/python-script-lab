@@ -10,3 +10,4 @@ Pillow
 pytesseract==0.3.13
 speechrecognition
 pyaudio
+dotenv
