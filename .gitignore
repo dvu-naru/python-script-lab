@@ -19,6 +19,9 @@ dist/
 *.egg-info/
 .eggs/
 
+# Docker
+docker-compose.yml
+
 # Logs
 
 *.log
